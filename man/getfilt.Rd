@@ -184,14 +184,14 @@ For the full set now available see options at \code{\link{filters}}, where all l
   Band2_GMRT \tab GMRT Band 2 \cr
 
   % ROMAN
-  F062_ROMAN \tab ROMAN WFI F062 \cr
-  F087_ROMAN \tab ROMAN WFI F087 \cr
-  F106_ROMAN \tab ROMAN WFI F106 \cr
-  F129_ROMAN \tab ROMAN WFI F129 \cr
-  F146_ROMAN \tab ROMAN WFI F146 \cr
-  F158_ROMAN \tab ROMAN WFI F158 \cr
-  F184_ROMAN \tab ROMAN WFI F184 \cr
-  F213_ROMAN \tab ROMAN WFI F213 \cr
+  F062_WFI_ROMAN \tab ROMAN WFI F062 \cr
+  F087_WFI_ROMAN \tab ROMAN WFI F087 \cr
+  F106_WFI_ROMAN \tab ROMAN WFI F106 \cr
+  F129_WFI_ROMAN \tab ROMAN WFI F129 \cr
+  F146_WFI_ROMAN \tab ROMAN WFI F146 \cr
+  F158_WFI_ROMAN \tab ROMAN WFI F158 \cr
+  F184_WFI_ROMAN \tab ROMAN WFI F184 \cr
+  F213_WFI_ROMAN \tab ROMAN WFI F213 \cr
 
   % COBE/DIRBE
   COBE_DIRBE_60m \tab COBE DIRBE 60m \cr 
