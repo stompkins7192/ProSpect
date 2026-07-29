@@ -73,6 +73,16 @@ getfilt=function(filter){
 
     #GMRT
     "Band5_GMRT", "Band4_GMRT", "Band3_GMRT", "Band2_GMRT"
+
+    #ROMAN
+    "F062_ROMAN", "F087_ROMAN", "F106_ROMAN", "F129_ROMAN", "F146_ROMAN", "F158_ROMAN", "F184_ROMAN", "F213_ROMAN", "W146_ROMAN"
+
+    #PLANCK
+    "PLANCK_HFI_100GHz", "PLANCK_HFI_143_GHz", "PLANCK_HFI_217GHz", "PLANCK_HFI_353_GHz", "PLANCK_HFI_545_GHz", "PLANCK_HFI_857GHz"
+
+    #COBE/DIRBE
+    "COBE_DIRBE_60m", "COBE_DIRBE_100m", "COBE_DIRBE_140m", "COBE_DIRBE_240m"
+    
   )
 
   if(filter %in% c('FUV', 'NUV')){
